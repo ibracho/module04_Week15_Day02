@@ -5,11 +5,10 @@
 #### Overview
 For this assignment, you will create a math game that takes user input, manipulates data, and utilizes error handling, by following the given the specifications.
 
-![LabExample](./Example/lab_example.png)
 
 ### Instructions
 
-Within the `Program.cs` file, add the following methods described below.
+Within the `Program.cs` file, add the following function described below.
 
 
 ### Part 1: ViewBalance function
